@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# TensorBoard logs
+events.out.tfevents.*
+
+# IDE / PyCharm files
+*.iml
+misc.xml
+modules.xml
+other.xml
+forwardedPorts.xml
+workspace.xml
