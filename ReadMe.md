@@ -93,6 +93,3 @@ Upload a vineyard image through the web UI — the app returns the image with pr
 
 - [Flashrandom](https://github.com/Flashrandom)
 
-## 📄 License
-
-This project is developed as part of the Machine Learning Practice course (ML_practice_class).
