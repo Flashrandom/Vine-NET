@@ -7,8 +7,11 @@
 *TensorFlow · Keras · Flask*
 
 </div>
+<div align="center">
 
----
+### 🚀 [Try the Live Demo](https://abhayrathorethakur--vinenet.us-east.modal.run)
+
+</div>---
 
 ## 📌 Overview
 
